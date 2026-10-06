@@ -1,0 +1,9 @@
+{
+  "name": "Atlas Brain - Azure RAG Audio Production Engine",
+  "description": "Módulo RAG y motor de decisión en Azure/Ollama para producción musical con análisis audio_dna.json, inventario de plugins y generación de production_plan.json.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
